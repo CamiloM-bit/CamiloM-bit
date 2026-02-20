@@ -46,19 +46,6 @@
 
 ###
 
-<h3 align="left">📊 GitHub Activity</h3>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CamiloM-bit/CamiloM-bit/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CamiloM-bit/CamiloM-bit/output/pacman-contribution-graph.svg">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamiloM-bit&show_icons=true&theme=tokyonight" />
-</picture>
-
-###
 
 <h3 align="left">🌐 Connect with me</h3>
 
