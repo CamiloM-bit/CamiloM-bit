@@ -50,6 +50,12 @@ This project will later evolve into a fullstack application.
 
 ---
 
+### GitHub Streak
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CamiloM-bit&theme=dark&locale=es&short_numbers=true&card_width=1000&card_height=300" alt="GitHub Streak" /></a>
+<div/>
+
+
 ### 🌐 Connect with me
 
 <div align="left">
@@ -61,3 +67,5 @@ This project will later evolve into a fullstack application.
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,3,12&section=footer" width="100%" />
+
+
