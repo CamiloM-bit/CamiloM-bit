@@ -52,7 +52,7 @@ This project will later evolve into a fullstack application.
 
 ### GitHub Streak
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CamiloM-bit&theme=dark&locale=es&short_numbers=true&card_width=800&card_height=300" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CamiloM-bit&theme=dark&locale=es&short_numbers=true&card_width=700&card_height=300" alt="GitHub Streak" /></a>
 <div/>
 
 
