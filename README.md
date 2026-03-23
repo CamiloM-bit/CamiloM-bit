@@ -33,22 +33,6 @@ On my way to becoming a Software Engineer.
 
 ---
 
-### 🚀 Projects
-
-**🎬 Streaming Platform UI** — *In Development*
-
-Frontend interface of a streaming platform built with Next.js and Tailwind CSS.
-
-Focus:
-- Responsive design
-- Component-based architecture
-- Clean and modern UI structure
-
-This project will later evolve into a fullstack application.
-
-> Status: 🚧 In progress &nbsp;·&nbsp; Live Demo: Coming soon
-
----
 
 ### GitHub Streak
 <!-- <div align="center">
