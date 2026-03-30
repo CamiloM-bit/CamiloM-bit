@@ -32,6 +32,13 @@
 
 ---
 
+### Trabajo Actual 🏗️
+
+* **[Portfolio Personal](https://github.com/CamiloM-bit)** - Desarrollo de espacio profesional con **HTML5 y CSS3**.
+* **Movie & Series App** - Aplicación con **Next.js** e integración de APIs (**TMDB & YouTube**).
+
+---
+
 ### Actividad en GitHub
 
 <p align="left">
@@ -42,7 +49,7 @@
 
 <p align="left">
   <a href="https://github.com/CamiloM-bit">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloM-bit&layout=compact&theme=dark&hide_border=true&title_color=0070f3" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloM-bit&layout=compact&theme=dark&hide_border=true&title_color=0070f3&langs_count=6" alt="Top Langs" />
   </a>
 </p>
 
