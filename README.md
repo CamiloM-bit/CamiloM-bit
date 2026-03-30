@@ -10,21 +10,21 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-<img align="right" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-* 🇨🇴 **Ubicación:** Residiendo en Colombia.
-* 💻 **Enfoque actual:** Perfeccionando el ecosistema Frontend y explorando la arquitectura de software.
-* ⚡ **Especialidad:** Maquetación avanzada con **HTML & CSS**, animaciones fluidas y diseño responsivo.
-* 🌱 **Aprendiendo:** Dominando **JavaScript**, **Next.js** y explorando los cimientos del Backend.
-* 🎯 **Objetivo:** Construir sistemas escalables y aplicaciones de alto rendimiento.
+* **Ubicación:** Residiendo en Colombia.
+* **Enfoque:** Perfeccionando el ecosistema Frontend y explorando la arquitectura de software.
+* **Especialidad:** Maquetación avanzada con HTML & CSS, animaciones fluidas y diseño responsivo.
+* **Aprendizaje:** Dominando JavaScript, Next.js y explorando los cimientos del Backend.
+* **Objetivo:** Construir sistemas escalables y aplicaciones de alto rendimiento.
 
 <br clear="right" />
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,vite,git,figma&theme=dark" />
@@ -32,16 +32,23 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Actividad en GitHub
 
 <p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CamiloM-bit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloM-bit&layout=compact&theme=tokyonight&hide_langs_below=1" />
+  <a href="https://github.com/CamiloM-bit">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloM-bit&theme=dark&hide_border=true&stroke=0070f3&ring=0070f3&fire=0070f3&currStreakLabel=0070f3" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/CamiloM-bit">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloM-bit&layout=compact&theme=dark&hide_border=true&title_color=0070f3" alt="Top Langs" />
+  </a>
 </p>
 
 ---
 
-### 🌐 Hablemos de código
+### Hablemos de código
 
 <p align="left">
   <a href="mailto:Mezacamilo841@gmail.com">
@@ -49,9 +56,6 @@
   </a>
   <a href="https://dev.to/camilombit">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
