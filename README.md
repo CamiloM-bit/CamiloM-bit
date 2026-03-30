@@ -12,7 +12,7 @@
 
 ### Sobre mí
 
-<img align="right" width="280" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 * **Ubicación:** Residiendo en Colombia.
 * **Enfoque:** Perfeccionando el ecosistema Frontend y explorando la arquitectura de software.
@@ -26,16 +26,16 @@
 
 ### Stack Tecnológico
 
-<div align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,vite,git,figma&theme=dark" />
-</div>
+</p>
 
 ---
 
 ### Trabajo Actual 🏗️
 
-* **[Portfolio Personal](https://github.com/CamiloM-bit)** - Desarrollo de espacio profesional con **HTML5 y CSS3**.
-* **Movie & Series App** - Aplicación con **Next.js** e integración de APIs (**TMDB & YouTube**).
+* 🚀 **[Portfolio Personal](https://github.com/CamiloM-bit)** - Desarrollo de espacio profesional con **HTML5 y CSS3**.
+* 🎬 **Movie & Series App** - Aplicación con **Next.js** e integración de APIs (**TMDB & YouTube**).
 
 ---
 
