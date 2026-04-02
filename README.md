@@ -16,8 +16,8 @@
 
 * **Ubicación:** Residiendo en Colombia.
 * **Enfoque:** Perfeccionando el ecosistema Frontend y explorando la arquitectura de software.
-* **Especialidad:** Maquetación avanzada con HTML & CSS, animaciones fluidas y diseño responsivo.
-* **Aprendizaje:** Dominando JavaScript, Next.js y explorando los cimientos del Backend.
+* **Especialidad:** Maquetación avanzada, animaciones fluidas y diseño responsivo de alto impacto.
+* **Aprendizaje:** Dominando JavaScript, Next.js y profundizando en los cimientos del Backend.
 * **Objetivo:** Construir sistemas escalables y aplicaciones de alto rendimiento.
 
 <br clear="right" />
@@ -27,15 +27,15 @@
 ### Stack Tecnológico
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,vite,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,vite,git,figma&theme=dark" />
 </p>
 
 ---
 
 ### Trabajo Actual 🏗️
 
-* 🚀 **[Portfolio Personal](https://github.com/CamiloM-bit)** - Desarrollo de espacio profesional con **HTML5 y CSS3**.
-* 🎬 **Movie & Series App** - Aplicación con **Next.js** e integración de APIs (**TMDB & YouTube**).
+* 🚀 **[Portfolio Personal](https://github.com/CamiloM-bit)** - Desarrollo de mi espacio profesional enfocado en el rendimiento.
+* 🎬 **Movie & Series App** - Aplicación dinámica con **Next.js**, TypeScript e integración de APIs (**TMDB & YouTube**).
 
 ---
 
