@@ -12,7 +12,7 @@
 
 ### Sobre mí
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFs_gif_by_id&ct=g/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 * **Ubicación:** Residiendo en Colombia.
 * **Enfoque:** Perfeccionando el ecosistema Frontend y explorando la arquitectura de software.
@@ -32,10 +32,24 @@
 
 ---
 
-### Trabajo Actual 🏗️
+### Trabajo Actual
 
-* 🚀 **[Portfolio Personal](https://github.com/CamiloM-bit)** - Desarrollo de mi espacio profesional enfocado en el rendimiento.
-* 🎬 **Movie & Series App** - Aplicación dinámica con **Next.js**, TypeScript e integración de APIs (**TMDB & YouTube**).
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://camilom-bit.github.io/camilo-meza-portfolio/">Portfolio Personal</a></h4>
+      <p>Mi carta de presentación digital con diseño moderno y minimalista.</p>
+      <a href="https://camilom-bit.github.io/camilo-meza-portfolio/">
+        <img src="https://i.postimg.cc/D0kN48ZZ/image.png" alt="Portfolio Preview" style="border-radius: 4px; border: 1px solid #30363d;" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/CamiloM-bit/movie-app">Movie & Series App</a></h4>
+      <p>Aplicación para explorar contenido multimedia consumiendo la API de TMDB.</p>
+      <img src="https://via.placeholder.com/600x330.png?text=Movie+App+Preview" alt="Movie App Preview" style="border-radius: 4px; border: 1px solid #30363d;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
