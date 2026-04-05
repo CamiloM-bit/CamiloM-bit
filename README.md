@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://postimg.cc/14RTg17G">
+    <img src="https://i.postimg.cc/G3v15ck5/Whats-App-Image-2026-04-04-at-8-16-55-PM.jpg" alt="Banner" width="100%" />
+  </a>
+</p>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CamiloM-bit.CamiloM-bit&left_color=181818&right_color=0070f3" />
 
 # Hi there! I'm Camilo 👋
