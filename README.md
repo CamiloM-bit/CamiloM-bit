@@ -59,22 +59,6 @@
 
 ---
 
-### Actividad en GitHub
-
-<p align="left">
-  <a href="https://github.com/CamiloM-bit">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloM-bit&theme=dark&hide_border=true&stroke=0070f3&ring=0070f3&fire=0070f3&currStreakLabel=0070f3" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/CamiloM-bit">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloM-bit&layout=compact&theme=dark&hide_border=true&title_color=0070f3&langs_count=6" alt="Top Langs" />
-  </a>
-</p>
-
----
-
 ### Hablemos de código
 
 <p align="left">
