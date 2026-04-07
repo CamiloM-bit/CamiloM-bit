@@ -52,7 +52,9 @@
     <td width="50%" valign="top">
       <h4><a href="https://github.com/CamiloM-bit/movie-app">Movie & Series App</a></h4>
       <p>Aplicación para explorar contenido multimedia consumiendo la API de TMDB.</p>
-      <img src="https://via.placeholder.com/600x330.png?text=Movie+App+Preview" alt="Movie App Preview" style="border-radius: 4px; border: 1px solid #ffff;" />
+      <a href="https://github.com/CamiloM-bit/movie-app">
+        <img src="https://i.postimg.cc/2yp9HdRb/image.png" alt="Movie App Preview" style="border-radius: 4px; border: 1px solid #30363d;" />
+      </a>
     </td>
   </tr>
 </table>
